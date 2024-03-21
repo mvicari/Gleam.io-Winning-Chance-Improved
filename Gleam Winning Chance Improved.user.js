@@ -3,7 +3,7 @@
 // @namespace    GLEAM
 // @version      1.2
 // @description  lets show the odds of winning with improved accuracy
-// @author       You
+// @author       mvicari
 // @icon         http://i.imgur.com/6PuVE2l.png
 // @match        *://gleam.io/*
 // @grant        none
